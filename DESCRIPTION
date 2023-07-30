@@ -1,9 +1,9 @@
 Package: PathNetData
 Title: Experimental data for the PathNet package
 Date: 24 Sep 2012
-Version: 1.37.0
+Version: 1.37.1
 Author: Bhaskar Dutta <bhaskar.dutta@gmail.com>, Anders Wallqvist <awallqvist@bhsai.org>, and Jaques Reifman <jreifman@bhsai.org>
-Maintainer: Ludwig Geistlinger <Ludwig_Geistlinger@hms.harvard.edu>
+Maintainer: Ludwig Geistlinger <ludwig.geistlinger@gmail.com>
 Depends: R (>= 1.14.0)
 Description: This package contains the data employed in the vignette of the PathNet package. These data belong to the following publication: PathNet: A tool for pathway analysis using topological information. Dutta B, Wallqvist A, and Reifman J., Source Code for Biology and Medicine 2012 Sep 24;7(1):10.
 License: GPL-3
